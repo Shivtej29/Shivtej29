@@ -1,44 +1,62 @@
-# 👋 Hi there, I'm Shivtej Muthyala
+# 👋 Hi, I'm Shivtej Muthyala  
 
-🎯 A passionate Data Analyst with a strong foundation in analytics, data storytelling, and business problem-solving. I recently completed my internship at **Atliq Technologies** and have worked on multiple real-world analytics projects involving Power BI, SQL, and Python.
+🚀 **Data Analyst | Power BI Developer | SQL & Python Enthusiast**  
 
----
-
-## 💼 About Me
-
-- 🔎 Data Analyst with hands-on experience in dashboard creation, business reporting, and statistical insights
-- 🧠 Proficient in **Power BI**, **SQL (MySQL)**, and **Python (Pandas, NumPy, Seaborn, Matplotlib)**
-- 🛠️ Tools & Methods: DAX, Power Query, Excel, JIRA, Agile (Scrum & Kanban), API Testing (Postman)
-- 👨‍💻 Ex-Content Reviewer at V2 Solutions where I streamlined knowledge systems and improved accuracy by 95%
-- 📊 I build visually compelling dashboards and deliver actionable insights to drive smart business decisions
+I specialize in transforming raw data into meaningful insights, building **BI dashboards**, automating **ETL workflows**, and leveraging **AI tools** to optimize business processes. With hands-on experience in **supply chain analytics** and **insurance data analytics**, I thrive at the intersection of **data, business, and automation**.  
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Skills & Tools  
 
-- **Analytics**: Power BI, Excel, DAX Studio  
-- **Languages**: SQL, Python  
-- **Project Tools**: JIRA, Git, Kanban, Postman  
-- **Soft Skills**: Problem-Solving, Communication, Teamwork, Adaptability
----
-
-## 📚 Certifications
-
-- [Excel: Mother of Business Intelligence](https://codebasics.io/certificate/CB-51-500929) – Codebasics  
-- [Power BI for All Levels 3.0](https://codebasics.io/certificate/CB-49-500929) – Codebasics  
-- [SQL Beginner to Advanced](https://codebasics.io/certificate/CB-50-500929) – Codebasics  
-- [Data Analytics Bootcamp 4.0](https://codebasics.io/certificate/CB-BT-1-500929) – Codebasics  
-- [Internship - Atliq Technologies](https://codebasics.io/certificate/CB-VI-56-500929)
+- **Data Analytics & Visualization:** Power BI (Desktop & Service), Advanced Excel, KPI Reporting, Data Modeling, Statistics  
+- **Databases & Querying:** SQL (MySQL, PostgreSQL), Amazon Redshift, Supabase, Data Warehousing  
+- **Programming & Data Handling:** Python (Pandas, NumPy), Power Query, ETL Workflows  
+- **Automation & Integration:** n8n, Microsoft Power Automate, Make (Integromat), Zapier  
+- **Business Intelligence & AI Tools:** BI Dashboard Development, Generative AI for Data Analytics, ChatGPT API Integration  
 
 ---
 
-## 📫 Let's Connect
+## 💼 Experience  
 
-- 📍 Mumbai, Maharashtra, India  
-- 💼 [LinkedIn](www.linkedin.com/in/shivtejmuthyala)  
-- 🌐 [Portfolio](https://codebasics.io/portfolio/Shivtej-Muthyala)  
-- 📧 shivtejmuthyala0007@gmail.com  
+**📊 MIS Analyst | Dheeraj Engineering India** *(Nov 2024 – Present)*  
+- Built & maintained **Power BI dashboards** for testing KPIs & supply chain metrics → improved visibility & cut report prep time by **10%**.  
+- Automated ETL workflows with **n8n** & **Power Automate**, reducing manual work.  
+- Improved **data accuracy by 3%** and test cycle efficiency by **4%** through process standardization.  
+
+**📈 Data Analyst Intern | Shield Insurance (AtliQ Technologies)** *(May – Jun 2025)*  
+- Designed **Power BI dashboards** for claims & policy renewals → reduced manual reporting by **70%**.  
+- Audited **100+ claim records weekly** with SQL, lowering rejection rates from **10% to 8%**.  
+- Optimized workflows, cutting average processing time per record by **20%**.  
+- Strengthened fraud detection & boosted **customer retention by 15%**.  
+
+**📂 Associate Content Analyst | V2 Solutions Pvt. Ltd.** *(Apr – Nov 2024)*  
+- Managed large-scale datasets ensuring **accuracy & compliance**.  
+- Created **Excel reporting templates**, reducing turnaround time by **15%**.  
+- Enhanced reporting workflows & improved overall **data integrity**.  
 
 ---
 
-> 🚀 Always open to collaborations, internships, or full-time data analyst roles. Let’s connect!
+## 🎓 Education  
+
+- **B.Eng. | Information Technology** – Mumbai University (CGPA: 7.89) | 2023  
+- 12th – Telangana Board of Intermediate Education | 2019  
+- 10th – CBSE | 2017  
+
+---
+
+## 📜 Certifications  
+
+- Data Analyst Internship – **AtliQ Technologies** (May 2025)  
+- **Data Analytics Bootcamp 4.0 + AI for Data Analysts** – Codebasics (May 2025)  
+
+---
+
+## 📫 Let’s Connect  
+
+📍 Panvel, Maharashtra  
+📧 [shivtejmuthyala0007@gmail.com](mailto:shivtejmuthyala0007@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shivtejmuthyala/)  
+
+---
+
+✨ *“Turning raw data into insights, one dashboard at a time.”*  
